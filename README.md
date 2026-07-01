@@ -7,7 +7,7 @@ The focus is on building interview-ready skill through:
 - JavaScript and TypeScript fundamentals
 - React engineering and component design
 - Frontend machine coding practice
-- DSA pattern practice in TypeScript
+- DSA pattern practice in Python, with selected JavaScript/TypeScript rewrites
 - Interview revision, notes, and mock preparation
 
 ## Current Focus
@@ -59,7 +59,7 @@ Every DSA problem should eventually contain:
 
 ```text
 problem.md
-solution.ts
+solution.py
 notes.md
 ```
 

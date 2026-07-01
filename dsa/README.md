@@ -2,6 +2,10 @@
 
 DSA is practiced as pattern recognition, not question counting.
 
+Primary solving language: Python.
+
+Selected important problems can later be rewritten in JavaScript or TypeScript for frontend interview fluency.
+
 ## Order
 
 1. Foundations: Big O, arrays, hash maps, two pointers, sliding window
@@ -14,7 +18,8 @@ DSA is practiced as pattern recognition, not question counting.
 ```text
 problem-name/
   problem.md
-  solution.ts
+  solution.py
+  solution.ts optional
   notes.md
 ```
 
