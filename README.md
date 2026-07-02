@@ -1,22 +1,16 @@
-# Frontend + DSA Interview Preparation
+# Frontend + DSA Practice
 
-This repository tracks my structured preparation for frontend engineering interviews.
+A personal learning repository for frontend engineering, DSA practice, and interview preparation.
 
-The focus is on building interview-ready skill through:
+## Contents
 
-- JavaScript and TypeScript fundamentals
-- React engineering and component design
-- Frontend machine coding practice
-- DSA pattern practice in Python, with selected JavaScript/TypeScript rewrites
-- Interview revision, notes, and mock preparation
+- DSA solutions and pattern notes
+- JavaScript and TypeScript practice
+- React concepts and component patterns
+- Frontend machine coding exercises
+- Project work and learning notes
 
-## Current Focus
-
-- DSA foundations: Big O, arrays, hash maps, two pointers, sliding window
-- Frontend foundations: JavaScript, TypeScript, React hooks, component patterns
-- Morning-only study system because work hours are usually 11:30 AM to 9:00 PM
-
-## Repository Structure
+## Structure
 
 ```text
 dsa/
@@ -24,6 +18,7 @@ dsa/
   01-data-structures/
   02-dp-backtracking/
   03-interview-revision/
+  leetcode-inbox/
 
 frontend/
   00-javascript/
@@ -37,25 +32,11 @@ notes/
   frontend-roadmap/
   weekly-reviews/
 
+templates/
 archive/
-  python-old-solutions/
 ```
 
-## Daily Study Rule
-
-Morning is the main learning block.
-
-```text
-DSA first:       60-75 min
-Frontend next:   45-60 min
-Recall notes:    10-15 min
-```
-
-After work, serious study is optional. Recovery matters.
-
-## Solution Standard
-
-Every DSA problem should eventually contain:
+## DSA Format
 
 ```text
 problem.md
@@ -63,15 +44,8 @@ solution.py
 notes.md
 ```
 
-Every frontend machine coding or project folder should contain:
+Selected problems may also include JavaScript or TypeScript versions.
 
-```text
-README.md
-src/
-package.json
-```
+## Frontend Format
 
-## Recruiter Signal
-
-This repo is meant to show consistency, fundamentals, code quality, and frontend depth.
-It is not just a collection of solved problems.
+Frontend exercises and projects will include a README with setup notes, features, and implementation details.
