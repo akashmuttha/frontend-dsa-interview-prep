@@ -45,7 +45,9 @@ Selected problems may also include JavaScript or TypeScript versions when useful
 
 ## Frontend
 
-Frontend work is split into concepts, machine coding exercises, and larger projects.
+Frontend work is split into JavaScript, TypeScript, React, machine coding exercises, and larger projects.
+
+See `frontend/roadmap.md` for the frontend learning flow.
 
 Machine coding and project folders will include:
 
@@ -67,3 +69,5 @@ Each project README should explain the goal, features, setup, implementation not
 ## Goal
 
 Build consistent problem-solving ability and frontend engineering depth through small, well-documented increments.
+
+
