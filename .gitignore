@@ -17,8 +17,18 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-.vscode/*
-!.vscode/settings.json
+# Local VS Code setup belongs to each developer, not the public repository.
+.vscode/
+
+# The LeetCode extension generates temporary working files here. Keep the
+# folder guide, then move independently understood solutions into dsa/.
+dsa/leetcode-inbox/*
+!dsa/leetcode-inbox/README.md
+
+# Course-provided source files and notebook output are kept locally.
+practice_code_files/InterviewQuestions.py
+practice_code_files/timeComplexities.py
+practice_code_files/arrays_lists_big_o_practice_bridge.ipynb
 
 .agents/
 .codex/
